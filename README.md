@@ -43,8 +43,10 @@ An interactive Power BI dashboard designed to analyze employee attrition pattern
 ## 👨‍💻 Author
 
 **Joshua Pratheek**  
-_Data Analyst | Excel | Power BI | Python | SQL_  
+_Data Analyst | Python | SQL | Excel | Power BI_  
 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-pratheek-aluri-261a8b305/) · 🌐 [GitHub](https://github.com/joshp568)
+
+---
 
 ---
 
